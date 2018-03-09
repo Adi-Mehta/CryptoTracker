@@ -1,2 +1,2 @@
 # CryptoTracker
-Creating a cryptocurrency graph tracker using the Coinmarketcap api and plotly's interactive Dashboard. Planning on integrating with AWS! Currently a work in progress but coming along with weekly updates!
+Creating a cryptocurrency graph tracker using the Coinmarketcap api and plotly's interactive Dashboard. Currently a work in progress but coming along with weekly updates! Last Update: 3/9/2018 Have the app running on an Amazon Web Server(AWS) and actively gathering data, have the data graphed however there are certain formatting updates needed(add lines in data, fix zooming feature, potentially add drop down menu)
